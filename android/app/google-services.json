@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "881835782368",
+    "firebase_url": "https://direct-livestock.firebaseio.com",
+    "project_id": "direct-livestock",
+    "storage_bucket": "direct-livestock.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881835782368:android:7bac01ceabf38f89",
+        "android_client_info": {
+          "package_name": "com.directlivestock"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "881835782368-esflvajn8t2l9dn12v9g0sjsgcadlc84.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.directlivestock",
+            "certificate_hash": "c1031f373f47c572d520e1ffe6e6b3e2638de319"
+          }
+        },
+        {
+          "client_id": "881835782368-0btjpnf71n009kq94njt78d46rg748e8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMYp1AKdWrF9-H-GdWSx6Jw4cnEuSCHoE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "881835782368-0btjpnf71n009kq94njt78d46rg748e8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "881835782368-r43gscdddrfo9tk063rq5e2f4kq6ir14.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.directlivestock.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
